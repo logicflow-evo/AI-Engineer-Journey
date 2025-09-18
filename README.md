@@ -12,6 +12,9 @@ Here's a roadmap of the items needed to focus on this journey.
 * Deep dive in the following:
   - Data Science
   - Machine Learning
-       
+
+* Tool that I used:
+  - VS Code
+  - Jupyter Notebooks
 
   
