@@ -13,7 +13,7 @@ Here's a roadmap of the items needed to focus on this journey.
   - Data Science
   - Machine Learning
 
-* Tool that I used:
+* Tools that I used:
   - VS Code
   - Jupyter Notebooks
   - Docker
