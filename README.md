@@ -17,5 +17,6 @@ Here's a roadmap of the items needed to focus on this journey.
   - VS Code
   - Jupyter Notebooks
   - Docker
+  - K8s
 
   
