@@ -16,5 +16,6 @@ Here's a roadmap of the items needed to focus on this journey.
 * Tool that I used:
   - VS Code
   - Jupyter Notebooks
+  - Docker
 
   
